@@ -3,7 +3,7 @@
 
 
 
-*Mafuyu Sato aqui, explorando o ambiente da programação junto com a Alura* 🎸
+*Mafuyu Sato aqui, explorando o ambiente da programação junto com a [Alura](https://www.alura.com.br)* 🎸
 
 - 🔭 I’m currently studant the Alura
 - 🌱 And I’m learning JavaScript
